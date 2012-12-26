@@ -22,6 +22,7 @@ echo "Step 2: install chef , and configure chef-client"
 gems_list=(
 rake
 chef
+tmuxinator
 )
 
 gem source --add http://ruby.taobao.org
